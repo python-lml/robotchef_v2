@@ -4,3 +4,7 @@ codecov
 coverage
 flake8
 mock
+https://github.com/python-lml/robotchef_chinesecuisine/archive/master.zip
+https://github.com/python-lml/robotchef_britishcuisine/archive/master.zip
+https://github.com/python-lml/robotchef_cook/archive/master.zip
+https://github.com/python-lml/robotchef_api/arhive/master.zip
